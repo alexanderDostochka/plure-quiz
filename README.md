@@ -9,6 +9,7 @@ In order to increase the speed of the site, the idea came to create a Virtual DO
 - Effective UI updates: Virtual DOM allows you to reduce the number of direct manipulations with the real DOM
 - Structured code: Using the Virtual DOM allows you to structure your code by separating presentation logic (DOM manipulation) from business logic
 - Optimization of rerendering: Virtual DOM allows you to effectively optimize the rerendering process by using various techniques such as node tree, diffuse update and change packaging
+![image](https://github.com/alexanderDostochka/plure-quiz/assets/39063311/8fa20828-e328-4ac8-8a0d-be33e4c2066c)
 
 # Figma design
 I created a simple landing page design, you can see it here 
