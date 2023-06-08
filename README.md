@@ -14,5 +14,5 @@ In order to increase the speed of the site, the idea came to create a Virtual DO
 I created a simple landing page design, you can see it here 
 https://www.figma.com/file/PkzUYHV2ZJidpbBSVMlFAu/Landing-Page?type=design&node-id=0%3A1&t=6MBpLpDl9ScuXETd-1
 
-#-
+## Thanks
 I think you will find something interesting in my code and give good feedback.
