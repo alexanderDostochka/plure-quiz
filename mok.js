@@ -28,6 +28,10 @@ export const quizGame = {
           id: 3,
           answer: "Head",
         },
+        {
+          id: 4,
+          answer: "Finger",
+        },
       ],
     },
     {
@@ -46,6 +50,10 @@ export const quizGame = {
         {
           id: 3,
           answer: "Alex",
+        },
+        {
+          id: 4,
+          answer: "Olivia",
         },
       ],
     },
